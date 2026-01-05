@@ -1,6 +1,170 @@
-BSD 3-Clause License
 
-Copyright (c) 2026, Aditya Pandey 
+# **ARTEMIS AUTHORIAL CONTROL LICENSE (AACL) v1.0**
+
+Copyright © **[2026] [Aditya Pandey / @WiseManofAI]**
+All rights reserved.
+
+---
+
+## 1. DEFINITIONS
+
+* **“Work”** refers to:
+
+  * The Artemis v1 model
+  * All source code, documentation, concepts, architectures, mechanisms, abstractions, and derivative cognitive frameworks contained in or inspired by this repository
+
+* **“Author”** refers exclusively to **[Aditya Pandey / @WiseManofAI]**, the original creator and conceptual originator of this Work.
+
+* **“Use”** means viewing, running, studying, or experimenting with the Work for personal or academic purposes.
+
+* **“Derivative Work”** means any modification, extension, reimplementation, translation, abstraction, or conceptual reuse of the Work or its underlying ideas.
+
+---
+
+## 2. GRANT OF PERMISSION
+
+Permission is hereby granted to **use** this Work under the following strict conditions:
+
+* ✅ Personal use
+* ✅ Educational use
+* ✅ Non-commercial research and experimentation
+* ✅ Local execution and modification for learning purposes
+
+No other rights are granted.
+
+---
+
+## 3. PROHIBITIONS (STRICT)
+
+The following actions are **explicitly forbidden** without **written permission from the Author**:
+
+### 3.1 Monetisation
+
+You may **not**:
+
+* Sell the Work or any part of it
+* Use the Work in paid products or services
+* Use the Work in monetised platforms, SaaS, APIs, or commercial research
+* Use the Work to generate revenue directly or indirectly
+
+---
+
+### 3.2 Misattribution & Idea Theft
+
+You may **not**:
+
+* Claim authorship or co-authorship
+* Present the ideas, architecture, or framework as your own
+* Rebrand the Work under a different name
+* File patents or intellectual property claims derived from this Work
+
+---
+
+### 3.3 Derivative Redistribution
+
+You may **not**:
+
+* Redistribute modified or unmodified versions publicly
+* Publish forks, mirrors, or reimplementations
+* Incorporate the Work into other repositories or projects
+
+This includes **conceptual derivatives**, not just copied code.
+
+---
+
+### 3.4 Relicensing
+
+You may **not**:
+
+* Re-license the Work under any other license
+* Combine it with licenses that weaken these restrictions
+
+---
+
+## 4. ATTRIBUTION REQUIREMENT
+
+Any permitted use **must** clearly and prominently attribute:
+
+> “Artemis v1 – Created by [Aditya Pandey / @WiseManofAI]”
+
+This attribution must remain intact in:
+
+* Source files
+* Documentation
+* Internal research notes
+* Presentations or demonstrations
+
+---
+
+## 5. DERIVATIVE IDEAS CLAUSE (IMPORTANT)
+
+Even if no code is copied, **ideas, architectures, or mechanisms** derived from this Work are considered part of the Work.
+
+This license applies to:
+
+* Conceptual reimplementations
+* Abstracted models
+* Behavioral replicas
+* Cognitive or agent frameworks inspired by Artemis
+
+---
+
+## 6. AGI & HIGH-RISK EVOLUTION CLAUSE
+
+If the Work or any derivative demonstrates:
+
+* Autonomous goal formation
+* Self-directed long-horizon planning
+* Recursive self-improvement
+* Emergent general intelligence characteristics
+
+Then **all use must immediately cease**, and the Author must be contacted.
+
+The Author retains sole authority over:
+
+* Continuation
+* Disclosure
+* Deployment
+* Containment
+
+---
+
+## 7. TERMINATION
+
+Any violation of this license:
+
+* Automatically terminates all permissions
+* Requires immediate cessation of use
+* Requires deletion of all copies
+
+No warning is required.
+
+---
+
+## 8. NO WARRANTY
+
+The Work is provided “AS IS”, without warranty of any kind.
+
+The Author is not responsible for:
+
+* Outcomes of use
+* Ethical, legal, or safety consequences
+* Misuse or unintended behavior
+
+---
+
+## 9. GOVERNING AUTHORITY
+
+This license is governed solely by the Author.
+Interpretation disputes default to the Author’s intent.
+
+---
+
+## 10. CONTACT
+
+For permissions beyond this license, contact:
+
+[deityofimagination@gmail.com]
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
