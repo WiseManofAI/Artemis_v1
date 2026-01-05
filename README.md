@@ -18,7 +18,9 @@ Offline presence-based cognitive agent.
 - Die:Re    → reset memory
 - Stats    → view internal state
 
-## Run
+## Setup
 ```bash
 pip install -r requirements.txt
+python download_model.py
 python artemis.py
+
